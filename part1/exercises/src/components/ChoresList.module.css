@@ -1,7 +1,11 @@
 .choresText {
-   color: black;
+   color: rebeccapurple;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: large;
 }
 
 .choresHeading {
-   color: black;
+   color: rebeccapurple;
+   text-decoration: underline;
+   font-style: italic;
 }
